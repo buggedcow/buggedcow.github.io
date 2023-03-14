@@ -2,4 +2,4 @@
 
 ## Folgendes Sicherheitskonzept wurde erstellt:
 
-[Sicherheitskonzept.pdf](/phase7/Sicherheitskonzept.pdf)
+[Sicherheitskonzept.pdf](/projekt/phase7/Sicherheitskonzept.pdf)
